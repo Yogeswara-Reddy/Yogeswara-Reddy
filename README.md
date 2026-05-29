@@ -67,7 +67,7 @@ I'm a passionate **Embedded Systems Engineer** with **1 year** of hands-on exper
 
 <div align="center">
 
-  <img src="https://streak-stats.demolab.com?user=Yogeswara-Reddy&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%" />
+  
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yogeswara-Reddy&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%" />
 
 </div>
