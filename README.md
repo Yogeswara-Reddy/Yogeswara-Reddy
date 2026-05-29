@@ -72,21 +72,10 @@ I'm a passionate **Embedded Systems Engineer** with **1 year** of hands-on exper
 
 </div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yogeswara-Reddy&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" width="50%" />
-</div>
+
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-  <img src="https://github-profile-trophy.vercel.app/?username=Yogeswara-Reddy&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1&column=6" alt="GitHub Trophies" />
-
-</div>
-
----
 
 ## 🤝 Let's Build Something Amazing Together!
 
