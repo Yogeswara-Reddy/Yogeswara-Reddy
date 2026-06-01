@@ -112,6 +112,6 @@ I'm a passionate **Embedded Systems Engineer** with **1 year** of hands-on exper
 
   <br/>
 
-  ![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom_up.svg)
+  👋
 
 </div>
