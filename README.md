@@ -107,7 +107,7 @@ I'm a passionate **Embedded Systems Engineer** with **1 year** of hands-on exper
   </a>
 
   <br/><br/>
-
+  
   *"The best embedded engineer is the one who knows both the hardware and the soul of the software."*
 
   <br/>
