@@ -102,3 +102,17 @@ I'm a passionate **Embedded Systems Engineer** with **1 year** of hands-on exper
   ![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom_up.svg)
 
 </div>
+
+
+---
+
+## 📜 Certifications
+
+<div align="center">
+
+| Certification | Issuer | Completed |
+|:--|:--|:--|
+| [**Claude 101**](https://verify.skilljar.com/c/c7toebhegzb3) | Anthropic (Skilljar) | 2026-05-31 |
+| [**Claude Code 101**](https://verify.skilljar.com/c/cxx5kfxce37d) | Anthropic (Skilljar) | 2026-06-01 |
+
+</div>
